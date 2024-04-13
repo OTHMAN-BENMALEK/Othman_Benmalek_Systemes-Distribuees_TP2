@@ -2,6 +2,7 @@
 
 
 1. Installer IntelliJ Ultimate
+
 ![Capture d’écran 2024-04-13 212059](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/01f8c806-543c-4ca0-a2c6-a13e4cb3fd87)
 
 2. Créer un projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombock
@@ -47,6 +48,7 @@ D'abord on a utilisé la base de données H2 :
 
 8. Migrer de H2 Database vers MySQL
       ![Migration vers MySQL](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/07cff094-a120-4916-b9e0-1a2c64185ee6)
+J'ai utilisé le WampServer :
       ![Création de la table MySQL Products-db](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/d2b90f00-95b3-4cc5-91ca-f718737a768a)
       ![Table de produits dans MySQL](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/1408686d-ea6d-4acd-9bff-74a91ffe3f2d)
 
