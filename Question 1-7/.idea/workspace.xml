@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70b1226f-a937-483c-95ba-15b4dfd58914" name="Changes" comment="commit 1">
+      <change beforePath="$PROJECT_DIR$/Question 1-7/nothing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question8/nothing 2" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OTHMAN-BENMALEK&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="626ae843-5029-4177-ad45-ebb1754269c3" />
+        <option name="url" value="https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2eGhhcBMk4nuLdgEXBS4RnqBj76" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/HP/IdeaProjects/university-umi-tp2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "accb91ec04af65f08b7f8babd140b813",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="UniversityUmiTp2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="university-umi-tp2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.universityumitp2.UniversityUmiTp2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70b1226f-a937-483c-95ba-15b4dfd58914" name="Changes" comment="" />
+      <created>1711536944647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711536944647</updated>
+      <workItem from="1711536945359" duration="3321000" />
+      <workItem from="1711540453314" duration="53000" />
+      <workItem from="1711540685182" duration="80000" />
+      <workItem from="1711570642221" duration="261000" />
+      <workItem from="1711572100845" duration="6000" />
+      <workItem from="1711981752244" duration="430000" />
+      <workItem from="1712318164960" duration="2711000" />
+      <workItem from="1712509578283" duration="2944000" />
+      <workItem from="1713043220409" duration="56000" />
+      <workItem from="1713043835036" duration="83000" />
+      <workItem from="1713189344957" duration="232000" />
+      <workItem from="1713190287854" duration="2044000" />
+      <workItem from="1713192354805" duration="2953000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1713191524474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713191524474</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1713192456010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713192456010</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1713193077493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713193077493</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1713193310484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713193310484</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 2" />
+    <MESSAGE value="commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
+  </component>
+</project>
