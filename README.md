@@ -11,17 +11,16 @@
 
 3. Créer l'entité JPA Produit ayant les attributs :
        - id de type Long
-       - nom de type String
-       - dateNaissanec de type Date
-       - malade de type boolean
-       - score de type int
+       - name de type String
+       - price de type int
+       - Quantity de type int
 ![Product class + persistance configuration](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/0325f5db-9adc-4193-957b-ce5be2f981f6)
 
-4. Configurer l'unité de persistance dans le ficher application.properties 
+5. Configurer l'unité de persistance dans le ficher application.properties 
 ![Application properties](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/51ee18a3-8500-4d47-92db-4438e0e5e09e)
-5. Créer l'interface JPA Repository basée sur Spring data
+6. Créer l'interface JPA Repository basée sur Spring data
 ![Adding 3 while using JPA](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/026057f0-6002-4cea-bc2f-d4355c6ab7fe)
-6. Tester quelques opérations de gestion de produits :
+7. Tester quelques opérations de gestion de produits :
 D'abord on a utilisé la base de données H2 :
 ![Database screen ](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/1dc9ca7a-42bd-4479-a5a7-d3636a4e16c9)
 
