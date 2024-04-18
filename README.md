@@ -12,7 +12,7 @@
 3. Créer l'entité JPA Produit ayant les attributs :
        - id de type Long
        - name de type String
-       - price de type int
+       - price de type double
        - Quantity de type int
 ![Product class + persistance configuration](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/0325f5db-9adc-4193-957b-ce5be2f981f6)
 
