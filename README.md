@@ -9,7 +9,7 @@
 ![New project dependencies](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/dc263b33-cb01-4592-baf2-56391158d1cd)
 ![New project SpringInitializer](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/3b4e358c-97f4-4b13-8cc0-a363177f8c85)
 
-3. Créer l'entité JPA Patient ayant les attributs :
+3. Créer l'entité JPA Produit ayant les attributs :
        - id de type Long
        - nom de type String
        - dateNaissanec de type Date
@@ -21,28 +21,28 @@
 ![Application properties](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/51ee18a3-8500-4d47-92db-4438e0e5e09e)
 5. Créer l'interface JPA Repository basée sur Spring data
 ![Adding 3 while using JPA](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/026057f0-6002-4cea-bc2f-d4355c6ab7fe)
-6. Tester quelques opérations de gestion de patients :
+6. Tester quelques opérations de gestion de produits :
 D'abord on a utilisé la base de données H2 :
 ![Database screen ](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/1dc9ca7a-42bd-4479-a5a7-d3636a4e16c9)
 
-    - Ajouter des patients
+    - Ajouter des produits
       ![Adding 3 product Code](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/7d1c7369-4ef8-4b70-ba73-45d7730114ea)
       ![Adding 3 product to DB](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/2087617c-544e-4c8e-9d90-4a4089504c82)
 
-    - Consulter tous les patients
+    - Consulter tous les produits
       ![Consulter tous les produits](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/c0da698d-bc2a-4668-b9ae-15fee626c16d)
 
-    - Consulter un patient
+    - Consulter un produit
       ![Chercher Un produit](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/c5cec932-c4de-4871-aa94-bb1f22196e0f)
 
-    - Chercher des patients
+    - Chercher des produits
       ![Chercher Un produit par nom ](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/c357fae3-fa5b-4395-9513-73abb0df6053)
 
-    - Mettre à jour un patient
+    - Mettre à jour un produit
       ![Mettreàajout un produit ](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/b116f985-eb63-4149-a8a4-6d1c729447fb)
       ![Résultat après MàJ](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/d0bca278-a026-4d1d-b19d-3c5e8dd4df29)
 
-    - supprimer un patient
+    - supprimer un produit
       ![Supprimer Produit 3](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/9fc87687-b960-4f4f-9153-528e9ed8b1e8)
       ![Résultat après Suppression du produit 3](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/43795797-7c8d-4a89-b9b7-21a97d5f3c03)
 
