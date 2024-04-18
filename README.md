@@ -90,6 +90,50 @@ J'ai utilisé le WampServer :
 
    ![7-1)JSON resultat](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/2bef20ae-84b6-4909-892c-b1c493f0f319)
 
+   2ieme application : Users - Roles  APP :
+
+   Architecture du projet :
+
+![Architecture du projet](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/907b2bef-f0e5-4df3-89b5-05330e209b40)
+
+
+   Ajout de 3 roles dans H2 :
+![1)Ajouter 3 roles](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/b11942a0-fe92-4dd5-b72e-e4c9695fe1b3)
+
+   Ajouter des users :
+![2)Ajouter des users ](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/15e1fd56-f0b6-478e-8b87-776c31dd0f54)
+
+
+   Table Joint :
+![3)Table joint userRoles](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/60e84de8-38c3-4015-8055-bfa678efe48e)
+
+
+   Afficher un utilisateur et leurs roles :
+![4)Afficher un utilisateur et ses Roles](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/81cbcdff-2245-4912-a1a6-43db2e4aea56)
+
+
+   Test d'authntification avec un MDP incorrect :
+![5)Test d'authentification avec un MDP incorrect](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/36c221c7-bf26-4d0d-bc2f-0f43966d1fbb)
+
+
+   Migration de la DB vers MySQL DB :
+   Role :
+![6-1)Migration de la DB vers SQL(role)](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/fdad67f5-8ea8-47a1-8d3e-2b6fcbbe667e)
+
+
+   Users :
+![6-2)role users](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/88d165c2-720c-4cd9-9987-b0f0e545d983)
+
+
+   roles_users:
+
+![6-3)User](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/0d6a8ff8-221d-48b5-a3e4-a6d94983e701)
+
+   
+
+
+
+   
 
 
    
