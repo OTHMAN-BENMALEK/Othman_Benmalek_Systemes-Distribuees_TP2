@@ -61,7 +61,11 @@ J'ai utilisé le WampServer :
    ![Start  Spring  IO](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/91d236ad-fd1c-47ca-b770-37347e484937)
 
    Architecture du projet :
+
+
    ![Project architecture ](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/1b51f5d7-6569-44c7-a30c-c68fa455a198)
+
+
    Ajout de 3 personnes dans la base h2 :
    ![1)Ajout de 3 personnes dans la base h2](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/0bff8d91-cedd-42cb-810e-395b18c49fa3)
    ![1-1) Résultat de l'ajout de 3 Personnes dans la base h2](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/46221285-de31-47c0-bc3b-dca90b8e3d1e)
@@ -82,6 +86,8 @@ J'ai utilisé le WampServer :
    ![6-1)UUID dans l'implementation](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/79510e99-421b-4314-88bb-63fa30ad83d2)
    ![6-2)Resultat de UUID](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/681f1fbf-6362-4bda-8dd4-772b9045ebed)
    Resultat JSON :
+
+
    ![7-1)JSON resultat](https://github.com/OTHMAN-BENMALEK/Othman_Benmalek_Systemes-Distribuees_TP2/assets/159661363/2bef20ae-84b6-4909-892c-b1c493f0f319)
 
 
